@@ -1,0 +1,9 @@
+C:\Users\Thomas\source\repos\tax calculator\tax calculator\bin\x64\Release\tax calculator.exe.config
+C:\Users\Thomas\source\repos\tax calculator\tax calculator\bin\x64\Release\tax calculator.exe
+C:\Users\Thomas\source\repos\tax calculator\tax calculator\bin\x64\Release\tax calculator.pdb
+C:\Users\Thomas\source\repos\tax calculator\tax calculator\obj\x64\Release\tax_calculator.Form1.resources
+C:\Users\Thomas\source\repos\tax calculator\tax calculator\obj\x64\Release\tax_calculator.Properties.Resources.resources
+C:\Users\Thomas\source\repos\tax calculator\tax calculator\obj\x64\Release\tip calculator.csproj.GenerateResource.cache
+C:\Users\Thomas\source\repos\tax calculator\tax calculator\obj\x64\Release\tip calculator.csproj.CoreCompileInputs.cache
+C:\Users\Thomas\source\repos\tax calculator\tax calculator\obj\x64\Release\tax calculator.exe
+C:\Users\Thomas\source\repos\tax calculator\tax calculator\obj\x64\Release\tax calculator.pdb
